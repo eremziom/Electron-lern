@@ -5,6 +5,9 @@
   "repository": "git@github.com:eremziom/Electron-lern.git",
   "author": "Maciej Kryczka <maciejkryczka@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
   "dependencies": {
     "electron": "5.0.6"
   }
